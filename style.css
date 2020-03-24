@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+#menu-navigazione{
+    background-color: rgba(175, 175, 175, 0.815);
+    height: 100%;
+    width: 100%;
+}
+
+#text{
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-center{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: black;
+}
+
+a:hover{
+    color: rgba(0, 0, 0, 0.623);
+}
