@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(35, 47, 62);
+}
+
+h1,p,span{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Source Code Pro', monospace;
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: gray ;
+}
+
+.social-logo-icon{
+    height: 50px;
+    width: 50px;
+}
+
+#yt-icon,#tw-icon,#ig-logo{
+    filter: invert(100%);
+}
+
+ #icons-div{
+    padding-left: 850px;
+}

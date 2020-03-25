@@ -8,8 +8,13 @@ body{
     width: 100%;
 }
 
-#text{
+h1,h2,p,span{
     font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
 }
 
 .text-center{
@@ -23,4 +28,8 @@ a{
 
 a:hover{
     color: rgba(0, 0, 0, 0.623);
+}
+
+.monospace{
+    font-family: 'Roboto Mono', monospace;
 }
