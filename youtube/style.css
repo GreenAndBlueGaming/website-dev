@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+
+#menu-navigazione{
+    background-color: rgba(175, 175, 175, 0.815);
+    height: 100%;
+    width: 100%;
+    padding-top: 0px;
+}
+
+h1,h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-center{
+    text-align: center;
+}
+
+p,span,blockquote,li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+a:hover{
+    color: rgba(0, 0, 0, 0.623);
+}
+
+.monospace{
+    font-family: 'Roboto Mono', monospace;
+}
