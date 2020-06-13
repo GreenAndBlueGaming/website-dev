@@ -1,0 +1,46 @@
+/* font-family: 'Roboto Condensed', sans-serif;
+
+font-family: 'Roboto Mono', monospace;
+
+font-family: 'Roboto Slab', serif; */
+
+h1, h2, h3, h4, h5, h6, span, p, a{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Inizio links */
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
+
+.container{
+    background-color: rgb(228, 228, 228);
+}
+
+.button-navig-pane{
+    transition-duration: 0.2s;
+    border: 2px solid rgb(170, 170, 170);
+    background-color: rgb(228, 228, 228);
+    font-size: large;
+    margin: 0;
+    position: relative;
+    left: 45%;
+}
+
+.button-navig-pane:hover{
+    background-color: rgb(151, 151, 151); /* Green */
+    color: white
+}
+
+.heading-navig-pane{
+    margin-bottom: 20px;
+    padding-left: 45px;
+    text-align: center;
+}
