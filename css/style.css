@@ -6,7 +6,7 @@ font-family: 'Roboto Slab', serif;
 
 font-family: 'Sora', sans-serif; */
 
-h1, h2, h3, h4, h5, h6, span, p, a{
+h1, h2, h3, h4, h5, h6, span, p, a, li{
     font-family: 'Roboto', sans-serif;
 }
 
@@ -37,10 +37,6 @@ a:visited{
 }
 
 /* Fine link */
-
-.container{
-    background-color: rgb(228, 228, 228);
-}
 
 /* Navigazione */
 
@@ -97,4 +93,19 @@ a:visited{
     margin-top: 50px;
     margin-bottom: 50px;
     width: 80%;
+}
+
+.container{
+    background-color: rgb(228, 228, 228);
+}
+
+.container-small{
+    background-color: rgb(228, 228, 228);
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 50px;
+}
+
+.division-section-small{
+    width: 50%;
 }

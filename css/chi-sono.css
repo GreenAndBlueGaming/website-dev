@@ -1,8 +1,15 @@
 .hello-text{
     text-align: center;
     font-size: 80px;
+    margin-bottom: 20px;
 }
 
 .bio-text{
     font-size: 22px;
+    text-align: center;
+}
+
+.sub-bio-text{
+    font-size: 55px;
+    text-align: center;
 }
